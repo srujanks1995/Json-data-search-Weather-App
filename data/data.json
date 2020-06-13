@@ -1,0 +1,47 @@
+[
+  {
+    "weather":"Cloud",
+    "shortweather":"Cloud",
+    "desc":"In meteorology, a cloud is an aerosol consisting of a visible mass of minute liquid droplets, frozen crystals, or other particles suspended in the atmosphere of a planetary body or similar space. Water or various other chemicals may compose the droplets and crystals."
+  },
+  {
+    "weather":"Wind",
+    "shortweather":"Wind",
+    "desc":"Wind is the flow of gases on a large scale. On the surface of the Earth, wind consists of the bulk movement of air. In outer space, solar wind is the movement of gases or charged particles from the Sun through space, while planetary wind is the outgassing of light chemical elements from a planet's atmosphere into space. Winds are commonly classified by their spatial scale, their speed, the types of forces that cause them, the regions in which they occur, and their effect. "
+  },
+  {
+    "weather":"Rain",
+    "shortweather":"Rain",
+    "desc":"Rain is liquid water in the form of droplets that have condensed from atmospheric water vapor and then become heavy enough to fall under gravity. Rain is a major component of the water cycle and is responsible for depositing most of the fresh water on the Earth. It provides suitable conditions for many types of ecosystems, as well as water for hydroelectric power plants and crop irrigation."
+  },
+  {
+    "weather":"Sunny",
+    "shortweather":"Sunny",
+    "desc":"The Sun is the star at the center of the Solar System. It is a nearly perfect sphere of hot plasma,[18][19] with internal convective motion that generates a magnetic field via a dynamo process.[20] It is by far the most important source of energy for life on Earth. Its diameter is about 1.39 million kilometers (864,000 miles), or 109 times that of Earth, and its mass is about 330,000 times that of Earth. It accounts for about 99.86% of the total mass of the Solar System.[21] Roughly three quarters of the Sun's mass consists of hydrogen (~73%); the rest is mostly helium (~25%), with much smaller quantities of heavier elements, including oxygen, carbon, neon, and iron.[22]"
+  },
+  {
+    "weather":"Snow",
+    "shortweather":"Snow",
+    "desc":"Snow comprises individual ice crystals that grow while suspended in the atmosphere—usually within clouds—and then fall, accumulating on the ground where they undergo further changes.[2] It consists of frozen crystalline water throughout its life cycle, starting when, under suitable conditions, the ice crystals form in the atmosphere, increase to millimeter size, precipitate and accumulate on surfaces, then metamorphose in place, and ultimately melt, slide or sublimate away."
+  },
+  {
+    "weather":"Fog",
+    "shortweather":"Fog",
+    "desc":"Fog is a visible aerosol consisting of tiny water droplets or ice crystals suspended in the air at or near the Earth's surface.[1] Fog can be considered a type of low-lying cloud usually resembling stratus, and is heavily influenced by nearby bodies of water, topography, and wind conditions. In turn, fog has affected many human activities, such as shipping, travel, and warfare."
+  },
+  {
+    "weather":"Clear",
+    "shortweather":"Clear",
+    "desc":"Weather is the state of the atmosphere, describing for example the degree to which it is hot or cold, wet or dry, calm or stormy, clear or cloudy.[1] Most weather phenomena occur in the lowest level of the atmosphere, the troposphere,[2][3] just below the stratosphere. Weather refers to day-to-day temperature and precipitation activity, whereas climate is the term for the averaging of atmospheric conditions over longer periods of time.[4] When used without qualification, \"weather\" is generally understood to mean the weather of Earth."
+  },
+  {
+    "weather":"Thunder",
+    "shortweather":"Thunder",
+    "desc":"A thunderstorm, also known as an electrical storm or a lightning storm, is a storm characterized by the presence of lightning and its acoustic effect on the Earth's atmosphere, known as thunder.[1] Relatively weak thunderstorms are sometimes called thundershowers.[2] Thunderstorms occur in a type of cloud known as a cumulonimbus. They are usually accompanied by strong winds, and often produce heavy rain and sometimes snow, sleet, or hail, but some thunderstorms produce little precipitation or no precipitation at all. Thunder storms may line up in a series or become a rainband, known as a squall line. "
+  },
+  {
+    "weather":"Tornado",
+    "shortweather":"Tornado",
+    "desc":"A tornado is a rapidly rotating column of air that is in contact with both the surface of the Earth and a cumulonimbus cloud or, in rare cases, the base of a cumulus cloud. The windstorm is often referred to as a twister, whirlwind or cyclone,[1] although the word cyclone is used in meteorology to weather a weather system with a low-pressure area in the center around which, from an observer looking down toward the surface of the earth, winds blow counterclockwise in the Northern Hemisphere and clockwise in the Southern.[2] Tornadoes come in many shapes and sizes, and they are often visible in the form of a condensation funnel originating from the base of a cumulonimbus cloud, with a cloud of rotating debris and dust beneath it. Most tornadoes have wind speeds less than 110 miles per hour (180 km/h), are about 250 feet (80 m) across, and travel a few miles (several kilometers) before dissipating. "
+  }
+]
