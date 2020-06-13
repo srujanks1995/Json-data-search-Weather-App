@@ -10,4 +10,4 @@ HTML,
 
 CSS
 
-!{}Output.png
+![](images/Output.png)
